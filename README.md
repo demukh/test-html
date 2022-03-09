@@ -10,4 +10,4 @@
 
 ### Description
 
-My git pet project
+My git pet project :)
